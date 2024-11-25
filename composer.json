@@ -26,6 +26,6 @@
         "ext-mbstring": "*"
     },
     "autoload": {
-        "psr-4": { "PNS\\SimpleHtmlDom": "src/SimpleHtmlDom/" }
+        "psr-4": { "PNS\\SimpleHtmlDom\\": "src/SimpleHtmlDom/" }
     }    
 }
